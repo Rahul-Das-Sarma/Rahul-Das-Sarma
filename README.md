@@ -2,7 +2,7 @@
 I have been working on Front-end for the past 4 years and now I have started working on Backend as well. Currently, I am learning Advanced Nodejs along with docker, kubernetes and AWS.
 
 ## Ask Me Questions
-You can ask me anything about React, Redux, Javascript and Node. Basically anything regarding programming. Hope connect with you all.
+You can ask me anything about React, Redux, Javascript and Node. Basically, anything regarding programming. Hope to connect with you all.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahuldsofficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rahul_dofficial) 
