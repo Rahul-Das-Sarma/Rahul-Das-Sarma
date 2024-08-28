@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working on Front-end for the past 4 years and now I have started working on Backend as well. Currently, I am building projects, which will showcase my Full Stack capabilities.
+I have been working on Front-end for the past 3+ years and now I have started working on Backend as well. Currently, I am building projects, which will showcase my Full Stack capabilities.
 
 ## Ask Me Questions
 You can ask me anything about React, Redux, Javascript, Node and DevOps. Basically, anything regarding programming. Hope to connect with you all.
